@@ -1,42 +1,4 @@
 
-<p align="center">
- <img src="https://user-images.githubusercontent.com/91085882/137566814-9c8c078c-1c3e-475c-b23d-7f4922f74beb.gif"/>
-</p>
-<p align="center">
-<a href="https://github.com/akmalabdilah"><img title="Author" src="https://img.shields.io/discord/102860784329052160?color=BLUE&label=M.%20AKMAL%20AL%20ABDILAH1&logo=GITHUB&logoColor=BLACK&style=plastic"></a>
-<p align="center">
-
-<p align="center">
-<a href="https://github.com/akmalabdilah/Tutorial_Drat_2.git">Requirements</a> •
-<a href="https://github.com/akmalabdilah/Tutorial_Drat_2.git">Informasi</a> •
-<a href="https://github.com/akmalabdilah/Tutorial_Drat_2.git">Tutorial</a>
-</p>
-</div>
-
-# Requirements
-- [Dart](https://git-scm.com/download)
-
-# Informasi Dart
-Apa itu Dart?
-<p>
-Dart adalah bahasa pemrograman yang dikembangkan oleh Google. Dart didesain untuk membangun aplikasi lintas platform, termasuk aplikasi mobile untuk Android dan iOS, aplikasi web, dan juga aplikasi desktop. Dart memiliki sintaks yang mirip dengan bahasa pemrograman C dan JavaScript, sehingga relatif mudah dipelajari bagi para pengembang yang sudah memiliki pengalaman dengan bahasa-bahasa tersebut. Salah satu keunggulan Dart adalah fitur Just-in-Time (JIT) dan Ahead-of-Time (AOT) compilation yang memungkinkan aplikasi yang ditulis dengan Dart berjalan dengan performa tinggi. Dart juga dilengkapi dengan kerangka kerja Flutter yang populer untuk pengembangan aplikasi mobile dan UI yang kaya.
-</p>
-
-# Tutorial
-- Pada saat pertama kali menggunakan Dart, perlu dilakukan penginstalan extension
-di visual Studio Code. Jalankan perintah berikut:
-
-```bash
-> Dart
-```
-
-
-![Gambar 1](Screenshots/ss1.JPG)
-
-
-- Setelah itu jalankan perintah Ctrl+Shift+P dan tulis Dart: New Project. untuk membuat repository 
-
-- Untuk membuat file pilih yang bagian ke dua dan berilah nama sesuka kalian dan jika sudah di pindahkan ke halaman folder hapus isi yang ada di polder dan buat file baru di dalam polder tersebut.
 
 <h1> Soal buatkan codingan fungsi validasi login dalam bahasa dart, dengan kualifikasi berikut:</h1>
 
@@ -128,23 +90,3 @@ bool login() {
 
 ```
 
-- Dibawah adalah Gambar run yang eror apa bilah pas input data password tidak mengikuti aturan validasi yang dibuat Eror: Password harus memiliki setidaknya 6 karakter
-
-![Gambar 4](Screenshots/ss4.JPG)
-
-- Dibawah adalah Gambar run yang eror apa bilah pas input data password tidak mengikuti aturan validasi yang dibuat Eror: Password harus mengandung setidaknya satu huruf besar
-
-![Gambar 3](Screenshots/ss3.JPG)
-
-- Dibawah adalah Gambar run yang eror apa bilah pas input data password tidak mengikuti aturan validasi yang dibuat Eror: Password harus mengandung setidaknya satu huruf kecil
-
-![Gambar 5](Screenshots/ss5.JPG)
-
-- Dibawah adalah Gambar run yang eror apa bilah pas input data password tidak mengikuti aturan validasi yang dibuat Eror: Password harus mengandung setidaknya satu angka atau karakter khusus
-
-![Gambar 6](Screenshots/ss6.JPG)
-
-- Untuk kode dartnya sama sama yang di atas karna 4 gambar eror barusan hanya untuk gambaran saja apa bila eror memasukan password karna tidak mengikuti validasi yang berlaku, Sekian dan.
-
-
-- Selesai
